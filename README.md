@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @antmdh
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning R
 - 💞️ I’m looking to collaborate on an texte game wiht link to supremacy1914
 - 📫 How to reach me discord antmdh#4991
 
